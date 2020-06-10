@@ -1,4 +1,4 @@
-    body {
+ body {
         text-align: center;
  }
     #logo-bar-buttons {
@@ -87,8 +87,8 @@
  }
  #search-bar {
      outline: none;
-     padding: 15px;
-     width: 450px;
+     padding: 14px;
+     width: 500px;
      border-radius: 25px;
      border-width: 1px;
      border-color:rgba(30, 30, 30, 0.2);
